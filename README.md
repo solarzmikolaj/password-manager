@@ -16,6 +16,3 @@
 - 📋 **Zarządzanie rekordami** (`Record`)
 - 🧭 **Menu konsolowe** (`Menus`)
 
----
-
-## 🧩 Struktura projektu
